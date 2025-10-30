@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="osa.png" alt="Banner de Nellys" width="100%">
+</p>
 # 👋 ¡Hola! Soy NellysMata 🌺
 
 🎯 **Desarrolladora Web | Apasionada por el diseño UX/UI y el código limpio**

@@ -35,8 +35,8 @@ Busco crecer como **desarrolladora fullstack**, combinando **diseño y tecnolog�
 
 ### 📫 Conecta conmigo
 
-🌐 [Portfolio](https://tusitio.com)  
-💼 [LinkedIn](www.linkedin.com/in/nellysmata) 
+🌐 [Portfolio](https://tusitio.com)
+💼 [LinkedIn](www.linkedin.com/in/nellysmata)
 📧 [Email](mailto:nellysmata.dev@gmail.com)  
 🐙 [GitHub](https://github.com/NellysMata)
 

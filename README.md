@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="osa.png" alt="Banner de Nellys" width="100%">
+  <img src="osa_2.png" alt="Banner de Nellys" width="100%">
 </p>
 # 👋 ¡Hola! Soy NellysMata 🌺
 

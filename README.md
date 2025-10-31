@@ -14,7 +14,7 @@ Además, estoy realizando un **curso oficial de creación de páginas web**, en 
 
 💻 **Frontend:** HTML · CSS · JavaScript · UX/UI · Responsive Design  
 ⚙️ **Backend:** PHP · Java · MySQL  
-🔧 **Herramientas:** Git · GitHub · XAMPP · Odoo · XML · JSON · Canva
+🔧 **Herramientas:** Git · GitHub · XAMPP · Odoo · XML · JSON · Canva  
 📚 **Aprendiendo actualmente:** Java y redes informáticas 🥵
 
 ---

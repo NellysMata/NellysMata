@@ -30,7 +30,7 @@ Busco crecer como **desarrolladora fullstack**, combinando **diseño y tecnolog�
 
 | 🌟 Proyecto | 💬 Descripción | 🛠️ Tecnologías |
 |-------------|----------------|----------------|
-| [**Portfolio personal**](https://tusitio.com) | Mi espacio digital para mostrar mis proyectos y estilo. | HTML, CSS, JS |
+| [**Portfolio personal**](https://nellysmata.github.io/) | Mi espacio digital para mostrar mis proyectos y estilo. | HTML, CSS, JS |
 | [**Gestor de tareas**](#) | Una aplicación web de gestión de tareas con un diseño **minimalista, limpio y elegante**, inspirada en la estética del portfolio personal del proyecto 🌸 
 | [**Sakura Calculadora**](#) | Es una calculadora web con una estética inspirada en la **flor de cerezo (Sakura)**.
 | [**Sakura clima**](#) |  Una web moderna que muestra el clima actual y las condiciones meteorológicas de cualquier ciudad del mundo, gracias a la integración con una **API del clima** (como OpenWeather).  
@@ -39,7 +39,7 @@ Busco crecer como **desarrolladora fullstack**, combinando **diseño y tecnolog�
 
 ### 📫 Conecta conmigo
 
-🌐 [Portfolio](https://nellysmata.com)  
+🌐 [Portfolio](https://nellysmata.github.io/)  
 
 💼 [LinkedIn](www.linkedin.com/in/nellysmata)  
 

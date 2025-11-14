@@ -5,7 +5,7 @@
 
 🎯 **Desarrolladora Web | Apasionada por el diseño UX/UI y el código limpio**
 
-Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)** y he completado un **bootcamp de desarrollo web fullstack**, donde aprendí a crear proyectos funcionales con **HTML, CSS, JavaScript, PHP y MySQL**.  
+Soy **Desarrolladora de Aplicaciones Web (DAW)** he completado un **bootcamp de desarrollo web fullstack**, donde aprendí a crear proyectos funcionales con **HTML, CSS, JavaScript, PHP y MySQL**.  
 Además, estoy realizando un **curso oficial de creación de páginas web**, en el que estoy aprendiendo a manejar **WordPress con PHP, JavaScript avanzado, diseño UX/UI, manejo de bases de datos**.
 
 ---
